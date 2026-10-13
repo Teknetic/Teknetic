@@ -33,8 +33,7 @@
   same audit runs against any browser build from one
   command.
 
-  → [**browserdiff**](https://github.com/Teknetic/br
-  owserdiff) — the pipeline, open source
+  → [**browserdiff**](https://github.com/Teknetic/browserdiff) — the pipeline, open    source
 
   ### Available for
 
