@@ -33,6 +33,9 @@
   same audit runs against any browser build from one
   command.
 
+  → [**browserdiff**](https://github.com/Teknetic/br
+  owserdiff) — the pipeline, open source
+
   ### Available for
 
   Browser-security audits · anti-bot and detection
